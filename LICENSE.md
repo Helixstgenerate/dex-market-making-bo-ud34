@@ -1,4 +1,4 @@
-# 
+# vip dex market making bot Utility | MEV-strategies + auto-compounding offers the most advanced dex market making bot, with MEV-strategies and auto-compounding. Ideal for
 
 
 
